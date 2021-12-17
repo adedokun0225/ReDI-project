@@ -1,0 +1,67 @@
+
+
+        The picture of care is <img alt="Used Mitsubishi Colt 2012" class="_js-lazy-image" data-record="7908551104123759939" data-src="https://images.ooyyo.com/media/240x180?sc=https&amp;url=i.ebayimg.com/00/s/MzU5WDY0MA==/z/dc8AAOSwwbNhlkbv/$_59.JPG" onerror="OYO.lpr.onResultImagesError(this)" onload="OYO.lpr.onResultImagesLoad(this)"/>
+        name_of_car: 2012 Mitsubishi Colt 1.1 MPI 
+        with   
+        mileage with Mi:  12,000 km  
+        
+        The picture of care is <img alt="Used Škoda Roomster 2014" class="_js-lazy-image" data-record="404239477084765927" data-src="https://images.ooyyo.com/media/240x180?sc=https&amp;url=i.ebayimg.com/00/s/Mzc1WDUwMA==/z/zMQAAOSwN6Zhn57t/$_59.JPG" onerror="OYO.lpr.onResultImagesError(this)" onload="OYO.lpr.onResultImagesLoad(this)"/>
+        name_of_car: 2014 Škoda Roomster 1.2 TSI 
+        with   
+        mileage with Mi:  11,990 km  
+        
+        The picture of care is <img alt="Used Renault Twingo 2013" class="_js-lazy-image" data-record="5581464016166788739" data-src="https://images.ooyyo.com/media/240x180?sc=https&amp;url=i.ebayimg.com/00/s/NDI2WDY0MA==/z/RG0AAOSwKkhhlroz/$_59.JPG" onerror="OYO.lpr.onResultImagesError(this)" onload="OYO.lpr.onResultImagesLoad(this)"/>
+        name_of_car: 2013 Renault Twingo 1.2 
+        with   
+        mileage with Mi:  12,700 km  
+        
+        The picture of care is <img alt="Used Fiat Panda 2011" class="_js-lazy-image" data-record="-9168850718591566084" data-src="https://images.ooyyo.com/media/240x180?sc=https&amp;url=i.ebayimg.com/00/s/NDgwWDY0MA==/z/ZGMAAOSwoNlhcC92/$_59.JPG" onerror="OYO.lpr.onResultImagesError(this)" onload="OYO.lpr.onResultImagesLoad(this)"/>
+        name_of_car: 2011 Fiat Panda 1.2 
+        with   
+        mileage with Mi:  18,000 km  
+        
+        The picture of care is <img alt="Used Renault Twizy 2013" class="_js-lazy-image" data-record="8098992929346052608" data-src="https://images.ooyyo.com/media/240x180?sc=https&amp;url=i.ebayimg.com/00/s/NDgwWDYzOA==/z/72cAAOSw6z9hYZD4/$_59.JPG" onerror="OYO.lpr.onResultImagesError(this)" onload="OYO.lpr.onResultImagesLoad(this)"/>
+        name_of_car: 2013 Renault Twizy  
+        with   
+        mileage with Mi:  19,600 km  
+        
+        The picture of care is <img alt="Used Renault Clio 2012" class="_js-lazy-image" data-record="6820276410396154013" data-src="https://i.ebayimg.com/00/s/NDI2WDY0MA==/z/QqIAAOSwjQxhSeE-/$_59.JPG" onerror="OYO.lpr.onResultImagesError(this)" onload="OYO.lpr.onResultImagesLoad(this)"/>
+        name_of_car: 2012 Renault Clio 1.2 
+        with   
+        mileage with Mi:  11,900 km  
+        
+        The picture of care is <img alt="Used Lancia Ypsilon 2011" class="_js-lazy-image" data-record="-3751496893115204874" data-src="https://images.ooyyo.com/media/240x180?sc=https&amp;url=i.ebayimg.com/00/s/MzYwWDY0MA==/z/SLoAAOSw-4ZhcrPj/$_59.JPG" onerror="OYO.lpr.onResultImagesError(this)" onload="OYO.lpr.onResultImagesLoad(this)"/>
+        name_of_car: 2011 Lancia Ypsilon 1.4 
+        with   
+        mileage with Mi:  18,570 km  
+        
+        The picture of care is <img alt="Used Mercedes Benz 300 2012" class="_js-lazy-image" data-record="3331389661636159248" data-src="https://images.ooyyo.com/media/240x180?sc=https&amp;url=i.ebayimg.com/00/s/NDgwWDQyMw==/z/IbUAAOSw7OlhnAnV/$_59.JPG" onerror="OYO.lpr.onResultImagesError(this)" onload="OYO.lpr.onResultImagesLoad(this)"/>
+        name_of_car: 2012 Mercedes Benz 300 6.3 SEL 
+        with   
+        mileage with Mi:  17,000 km  
+        
+        The picture of care is <img alt="Used Hyundai I20 2013" class="_js-lazy-image" data-record="7229424323157875167" data-src="https://images.ooyyo.com/media/240x180?sc=https&amp;url=prod.pictures.autoscout24.net/listing-images/affc0267-9654-4312-8841-b0074b789c74_620c4ac8-2ef3-40a4-8e04-7a4292ee224e.jpg/640x480.jpg" onerror="OYO.lpr.onResultImagesError(this)" onload="OYO.lpr.onResultImagesLoad(this)"/>
+        name_of_car: 2013 Hyundai I20 1.2 
+        with   
+        mileage with Mi:  12,590 km  
+        
+        The picture of care is <img alt="Used Bmw 7 Series 2011" class="_js-lazy-image" data-record="7363398478956263284" data-src="https://images.ooyyo.com/media/240x180?sc=https&amp;url=i.ebayimg.com/00/s/MTYwMFgxMjAw/z/SYoAAOSwRRNhlmjN/$_59.JPG" onerror="OYO.lpr.onResultImagesError(this)" onload="OYO.lpr.onResultImagesLoad(this)"/>
+        name_of_car: 2011 Bmw 7 Series 740d xDrive 
+        with   
+        mileage with Mi:  18,800 km  
+        
+        The picture of care is <img alt="Used Renault Twizy 2012" class="_js-lazy-image" data-record="8048441074832096735" data-src="https://images.ooyyo.com/media/240x180?sc=https&amp;url=i.ebayimg.com/00/s/MTIwMFgxNjAw/z/7Y0AAOSwwFdhl1kA/$_59.JPG" onerror="OYO.lpr.onResultImagesError(this)" onload="OYO.lpr.onResultImagesLoad(this)"/>
+        name_of_car: 2012 Renault Twizy  
+        with   
+        mileage with Mi:  12,890 km  
+        
+        The picture of care is <img alt="Used Seat Mii 2013" class="_js-lazy-image" data-record="-1236438431158485959" data-src="https://images.ooyyo.com/media/240x180?sc=https&amp;url=static.mein24.de/auto24/images/anzeigen/118/936/11893603/5909f23154743_gross.jpg" onerror="OYO.lpr.onResultImagesError(this)" onload="OYO.lpr.onResultImagesLoad(this)"/>
+        name_of_car: 2013 Seat Mii 1.0 
+        with   
+        mileage with Mi:  11,222 km  
+        
+        The picture of care is <img alt="Used Dacia Sandero 2013" class="_js-lazy-image" data-record="4853817973107297498" data-src="https://images.ooyyo.com/media/240x180?sc=https&amp;url=pics.virtando.com/u_de/ads/0/16/929cff7e163894d593b105bb60f19865.jpg" onerror="OYO.lpr.onResultImagesError(this)" onload="OYO.lpr.onResultImagesLoad(this)"/>
+        name_of_car: 2013 Dacia Sandero 1.2 
+        with   
+        mileage with Mi:  10,890 km  
+        
